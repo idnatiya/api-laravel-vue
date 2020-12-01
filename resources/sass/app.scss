@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+h1 {
+	margin-bottom: 25px; 
+}
+
+.container {
+	margin-top: 70px; 
+}
+
+.card, 
+.card-header, 
+.card-footer,
+.form-control,
+.btn {
+	border-radius: 0px; 
+}
